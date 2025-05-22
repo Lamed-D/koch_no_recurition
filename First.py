@@ -59,4 +59,4 @@ def for_Koch(dist, depth):
         else:
             t.right(120)
 t.speed(0)
-for_Koch(500,5)#4까지 동작확인
+for_Koch(500,5)#5까지 동작확인
